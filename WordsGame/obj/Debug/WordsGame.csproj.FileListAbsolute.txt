@@ -1,0 +1,12 @@
+C:\Users\Selim Başpınar\source\repos\WordsGame\WordsGame\bin\Debug\WordsGame.exe.config
+C:\Users\Selim Başpınar\source\repos\WordsGame\WordsGame\bin\Debug\WordsGame.exe
+C:\Users\Selim Başpınar\source\repos\WordsGame\WordsGame\bin\Debug\WordsGame.pdb
+C:\Users\Selim Başpınar\source\repos\WordsGame\WordsGame\obj\Debug\WordsGame.csprojAssemblyReference.cache
+C:\Users\Selim Başpınar\source\repos\WordsGame\WordsGame\obj\Debug\WordsGame.Client.resources
+C:\Users\Selim Başpınar\source\repos\WordsGame\WordsGame\obj\Debug\WordsGame.Form1.resources
+C:\Users\Selim Başpınar\source\repos\WordsGame\WordsGame\obj\Debug\WordsGame.Properties.Resources.resources
+C:\Users\Selim Başpınar\source\repos\WordsGame\WordsGame\obj\Debug\WordsGame.Server.resources
+C:\Users\Selim Başpınar\source\repos\WordsGame\WordsGame\obj\Debug\WordsGame.csproj.GenerateResource.cache
+C:\Users\Selim Başpınar\source\repos\WordsGame\WordsGame\obj\Debug\WordsGame.csproj.CoreCompileInputs.cache
+C:\Users\Selim Başpınar\source\repos\WordsGame\WordsGame\obj\Debug\WordsGame.exe
+C:\Users\Selim Başpınar\source\repos\WordsGame\WordsGame\obj\Debug\WordsGame.pdb
